@@ -5,4 +5,4 @@ description: Skład grupy Java FTW!
 group: main
 ---
 
-* [Michał Ciołek](https://github.com/michalciolek)
+![](https://www.gravatar.com/avatar/dbb66f70a05f1e5517b6adeaee89dadd) [Michał Ciołek](https://github.com/michalciolek)
