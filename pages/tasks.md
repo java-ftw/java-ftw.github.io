@@ -21,3 +21,9 @@ Na pierwszym spotkaniu wspominałem, że tematem pierwszych warsztatów będzie 
 
 Nie musisz przychodzić na warsztaty o gicie - wiesz już wszystko! Żartowałem, to tylko początek:D Jeśli masz problemy, pytania: #livehelp
 Good luck!
+
+
+## Zadanie 02
+- zrealizować “Szybki start” z [README w repo strony](https://github.com/java-ftw/java-ftw.github.io)
+- podesłać w prywatnej wiadomości login z GitHub (dodam Was do [organizacji Java-FTW](https://github.com/java-ftw/))
+- utworzyć własną (prostą) stronę WWW z wykorzystaniem instrukcji na [GitHub Pages](https://pages.github.com/)
