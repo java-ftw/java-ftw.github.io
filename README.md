@@ -11,9 +11,10 @@ Java **F**or **T**he **W**in! to grupa studentów Wojskowej Akademii Technicznej
 2. Uruchom komendę: ```gem install jekyll bundler```
 3. Pobierz kod strony: ```git clone https://github.com/java-ftw/java-ftw.github.io.git```
 4. Przejdź do katalogu strony: ```cd java-ftw.github.io```
-5. Uruchom stronę lokalnie ```bundle exec jekyll serve```
-6. Przejdź do http://localhost:4000
-7. Możesz edytować pliki. Po odświeżeniu przeglądarki ujrzysz zmiany.
+5. Uruchom ```bundle update``` następnie ```bundle install```
+6. Uruchom stronę lokalnie ```bundle exec jekyll serve```
+7. Przejdź do http://localhost:4000
+8. Możesz edytować pliki. Po odświeżeniu przeglądarki ujrzysz zmiany.
 
 ## Pomocne linki
 1. [Opis składni Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
